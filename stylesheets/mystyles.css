@@ -1,0 +1,14 @@
+body{
+padding:0px;
+margin:0px;
+}
+.span-24 {
+background-color:#000000;   
+}
+h1 {
+text-align:center;
+color:green;    
+}
+.span-4 {
+border:1px solid red;
+}
