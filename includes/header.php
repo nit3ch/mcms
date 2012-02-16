@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="css/blueprint/ie.css" type="text/css" media="screen, projection">
   <![endif]-->
 	</head>
-		<title> mycms </title>
+		<title> this is mycms </title>
 			<link rel="stylesheet" type="text/css" href="stylesheets/mystyles.css"/>
 		<body>
 			
